@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width:1140px;
+	margin: auto; 
+
+}
+
+.nav ul li{
+	list-style-type:none;
+    display: inline;
+    margin-right: 200px;
+
+   	}
